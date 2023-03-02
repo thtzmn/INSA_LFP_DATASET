@@ -4,7 +4,7 @@ This sample dataset was used in our paper: « SocSHAP: a new data driven explain
 
 The battery cycler is programmed to wear out the cells in cycles consisting of a charge phase and a discharge phase. The charging phases are carried out using the classic method of charging cells (constant current charge and then constant voltage for different current intensity levels). The discharge phase is constituted by using the driving cycles described previously by putting end to end several of these cycles. This phase also integrates the phenomenon of regenerative braking.
 
-Two data files are available in .csv format (one file per cell tested). The discharge phase is the same for both files. However, the first one contains charging phases with multiple step intensities and the second one contains only one intensity step.
+Two data files are available in .csv format (one file for each cell tested). The discharge phase is the same for both files. However, the first one contains charging phases with multiple step intensities and the second one contains only one intensity step.
 
 The measured raw data available in the files are:
 - The time (hours)
