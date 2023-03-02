@@ -13,4 +13,4 @@ The measured raw data available in the files are:
 - The temperature of the cell (°C) measured by a thermocoupler attached to the cell's surface.
 - The capacity for the actual state (Ah)
 
-Link to the dataset: https://seafile.unistra.fr/d/170177cbd3d34fb9bc5f/
+Link to the dataset: https://seafile.unistra.fr/d/170177cbd3d34fb9bc5f/.
