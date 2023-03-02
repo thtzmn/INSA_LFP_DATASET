@@ -7,10 +7,10 @@ The battery cycler is programmed to wear out the cells in cycles consisting of a
 Two data files are available in .csv format (one file for each cell tested). The discharge phase is the same for both files. However, the first one contains charging phases with multiple step intensities and the second one contains only one intensity step.
 
 The measured raw data available in the files are:
-- The time (hours)
-- The voltage of the cell (V)
-- The current delivered by the cell or by the cycler (A)
-- The temperature of the cell (°C) measured by a thermocoupler attached to the cell's surface.
-- The capacity for the actual state (Ah)
+- The time (hours),
+- The voltage of the cell (V),
+- The current delivered by the cell or by the cycler (A),
+- The temperature of the cell (°C) measured by a thermocoupler attached to the cell's surface,
+- The capacity for the actual state (Ah).
 
 Link to the dataset: https://seafile.unistra.fr/d/170177cbd3d34fb9bc5f/.
